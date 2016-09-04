@@ -1,5 +1,7 @@
 Survivalcraft XNB Editor
 ========================
+This tool is no longer useful.
+========================
 You have to install Python3 and PyQt5 for Python3 first.<br/>
 >[Download Python](https://www.python.org/downloads/)<br/>
 >[Download Pyqt5 for Python3](http://www.riverbankcomputing.com/software/pyqt/download5)<br/>
